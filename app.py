@@ -42,6 +42,15 @@ def login():
     return render_template('login.html', title='Sign In', form=form)
 
 
+from app import db
+from static.models import User, Post
+
+
+@app.shell_context_processor
+def make_shell_context():
+    return {'db': db, 'User': User, 'Post': Post}
+
+
 if __name__ == '__main__':
     app.run()
 
