@@ -66,3 +66,8 @@ Traceback (most recent call last):
     raise exc(msg, lineno, self.name, self.filename)
 jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endfor'. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
 2019-03-06 22:57:12,022 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-06 23:09:23,556 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-07 22:04:19,100 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-07 22:15:38,593 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-07 22:39:46,039 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-07 22:59:30,735 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
