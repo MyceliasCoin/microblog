@@ -71,3 +71,6 @@ jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'endfor'. Jinja w
 2019-03-07 22:15:38,593 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
 2019-03-07 22:39:46,039 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
 2019-03-07 22:59:30,735 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-09 20:49:52,338 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:46]
+2019-03-09 21:11:24,742 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:48]
+2019-03-09 21:18:07,822 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:48]
