@@ -48,3 +48,13 @@ Traceback (most recent call last):
     return getattr(obj, attribute)
 jinja2.exceptions.UndefinedError: 'wtf' is undefined
 2019-03-10 23:03:47,780 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:50]
+2019-03-10 23:15:52,381 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:50]
+2019-03-11 21:57:07,030 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app.py:52]
+2019-03-16 02:51:55,457 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\app.py:56]
+2019-03-16 02:52:28,905 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\app.py:56]
+2019-03-16 02:53:59,908 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\app.py:56]
+2019-03-16 03:05:42,914 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-16 03:09:55,111 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-16 03:35:31,253 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-16 03:37:28,481 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-16 03:38:15,764 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
