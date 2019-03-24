@@ -89,3 +89,7 @@ jinja2.exceptions.UndefinedError: 'wtf' is undefined
 2019-03-22 00:47:39,207 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
 2019-03-22 00:48:36,594 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
 2019-03-22 00:49:42,113 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-24 02:20:22,779 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-24 02:20:44,808 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-24 02:24:16,920 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
+2019-03-24 02:24:23,393 INFO: Microblog startup [in C:\Users\cheon\PycharmProjects\microblog\app\__init__.py:52]
